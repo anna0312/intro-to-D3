@@ -58,7 +58,7 @@ Because why look at your phone for the time when you could use this.
 A traditional graph format with beautifully illustrated evidence of our decreasing collective intelligence.
 
 
-### Just some cool stuff
+### A few more interesting visualizations for your perusal:
 
 [Force-Directed Graph](https://bl.ocks.org/mbostock/4062045)
 
@@ -74,8 +74,31 @@ We can all agree that D3 is amazing. But it's also pretty complex. Lucky for us 
 
 [C3](http://c3js.org/) is my favorite because it's absurdly easy to use. If time permits, lets do a code along!
 
-Open assets/scripts/donut.js and lets make us a chart!
-If we run out of time, here's the code we were going to write
+Open assets/scripts/donut.js and lets make us a chart.
+If we run out of time, I have included the code we were going to write below. No peeking!
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Seriously... no peeking
+
+.
+.
+.
+.
+.
+.
+.
+
+Ok, here's the code:
 
 ```javascript
 
