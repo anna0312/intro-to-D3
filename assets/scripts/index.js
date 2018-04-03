@@ -2,7 +2,7 @@
 
 const setAPIOrigin = require('../../lib/set-api-origin')
 const config = require('./config')
-const simplebar = require('./d3/simplebar')
+const timeseries = require('./c3/timeseries')
 
 $(() => {
   setAPIOrigin(location, config)

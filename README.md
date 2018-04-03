@@ -9,19 +9,7 @@
 [https://d3js.org/](https://d3js.org/)
 D3 (Data Driven Documents) is a JavaScript library for visualizing data.
 
-
-A lot of the work that I've done is dashboards and data visualization
-
-
-
-The gold standard is d3
-
-d3 is super complex. It's less a charting library, and more a method of data
-visualization
-
-Has it's own dom manipulation built in.
-
-
+Built using SVG 
 
 
 ## A wide variety of applications
@@ -33,11 +21,23 @@ Has it's own dom manipulation built in.
 
 [Fashion Week](http://www.nytimes.com/newsgraphics/2013/09/13/fashion-week-editors-picks/index.html)
 
+[Economic Output](https://archive.nytimes.com/www.nytimes.com/interactive/2013/04/08/business/global/asia-map.html)
+
+[Clock](http://bl.ocks.org/mbostock/1096355)
+
+[We are getting dumber](https://www.theguardian.com/world/interactive/2013/feb/12/state-of-the-union-reading-level)
+
 ## Just some cool stuff
 
 [Force-Directed Graph](https://bl.ocks.org/mbostock/4062045)
+
 [Collision Detection](https://bl.ocks.org/mbostock/3231298)
+
 [Geographical Bounding Boxes](https://www.jasondavies.com/maps/bounds/)
+
+
+
+## That's great. Now how do we use it?
 
 
 ## [License](LICENSE)
