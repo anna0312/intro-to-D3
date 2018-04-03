@@ -1,6 +1,7 @@
 
 # Intro to D3
 [logo]: https://raw.githubusercontent.com/d3/d3-logo/master/d3.png "D3"
+![alt text](https://raw.githubusercontent.com/d3/d3-logo/master/d3.png "Logo Title Text 1")
 
 
 ## What is D3?
