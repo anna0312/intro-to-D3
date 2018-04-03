@@ -101,7 +101,6 @@ Seriously... no peeking
 Ok, here's the code:
 
 ```javascript
-
 const c3 = require('c3')
 
 const chart = c3.generate({
@@ -111,10 +110,7 @@ const chart = c3.generate({
       ['Extremely awesome', 120],
       ['Someone mentioned donuts?', 80]
     ],
-    type: 'donut',
-    onclick: function (d, i) {
-      console.log('onclick', d, i)
-    }
+    type: 'donut'
   },
   donut: {
     title: 'What do you think?'
