@@ -1,7 +1,6 @@
 
-# Intro to D3
 [logo]: https://raw.githubusercontent.com/d3/d3-logo/master/d3.png "D3"
-![alt text](https://raw.githubusercontent.com/d3/d3-logo/master/d3.png "Logo Title Text 1"){:height="50%" width="50%"}
+![D3](https://s3.amazonaws.com/anna0312wdi/misc/d3logo.png "D3")
 
 
 ## What is D3?
@@ -9,7 +8,7 @@
 [https://d3js.org/](https://d3js.org/)
 D3 (Data Driven Documents) is a JavaScript library for visualizing data.
 
-Built using SVG 
+Built using SVG
 
 
 ## A wide variety of applications
