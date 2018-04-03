@@ -6,9 +6,10 @@
 ## What is D3?
 
 [https://d3js.org/](https://d3js.org/)
-D3 (Data Driven Documents) is a JavaScript library for visualizing data.
+D3 (Data Driven Documents) is a JavaScript library for visualizing data using
+SVG ([Scalable Vector Graphics])(https://en.wikipedia.org/wiki/Scalable_Vector_Graphics), ([Canvas])(https://en.wikipedia.org/wiki/Scalable_Vector_Graphics), and HTML to manipulate the DOM. 
 
-Built using SVG
+
 
 
 ## A wide variety of applications
