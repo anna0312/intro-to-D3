@@ -77,25 +77,25 @@ We can all agree that D3 is amazing. But it's also pretty complex. Lucky for us 
 Open assets/scripts/donut.js and lets make us a chart.
 If we run out of time, I have included the code we were going to write below. No peeking!
 .
+
 .
+
 .
+
 .
+
 .
+
 .
-.
-.
-.
-.
-.
-.
+
 Seriously... no peeking
 
 .
+
 .
+
 .
-.
-.
-.
+
 .
 
 Ok, here's the code:
