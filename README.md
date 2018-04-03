@@ -24,9 +24,20 @@ Has it's own dom manipulation built in.
 
 
 
-## Examples
+## A wide variety of applications
 
-[Force-Directed Graph](https://bl.ocks.org/mbostock/4062045){:target="_blank"}
+
+[Show Reel](https://bl.ocks.org/mbostock/1256572)
+
+[What's your skill set?](http://bl.ocks.org/wizicer/f662a0b04425fc0f7489)
+
+[Fashion Week](http://www.nytimes.com/newsgraphics/2013/09/13/fashion-week-editors-picks/index.html)
+
+## Just some cool stuff
+
+[Force-Directed Graph](https://bl.ocks.org/mbostock/4062045)
+[Collision Detection](https://bl.ocks.org/mbostock/3231298)
+[Geographical Bounding Boxes](https://www.jasondavies.com/maps/bounds/)
 
 
 ## [License](LICENSE)
